@@ -1,7 +1,7 @@
 # group4_project2
 ## Kevin Behlke: https://github.com/kwb95124
-## Guy Mayer:https://github.com/guymayer1/urbancrimetimeseries/blob/main/README.md
-## David Moreno:
+## Guy Mayer: https://github.com/guymayer1/urbancrimetimeseries/blob/main/README.md
+## David Moreno: ​​https://github.com/dmon67854/urbancrimetimeseries/tree/main
 ## Nadia Nazeem: https://github.com/nadianaz07/group4_project2/blob/main/README.md
 ## Mariana Munoz: https://github.com/Mariana-Munoz-70445/PROJECT-2-GROUP-4/blob/main/README.md?plain=1
 
