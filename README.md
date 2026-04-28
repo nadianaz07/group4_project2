@@ -138,7 +138,9 @@ LIMIT 1000;
 
 ### Which types of crime are most common in different neighborhoods? 
 <img width="971" height="605" alt="image" src="https://github.com/user-attachments/assets/cab2d6f0-26e8-43b0-8a59-f459ca721985" />
+
 ### What kinds of patterns do we see in the occurrence of crime over time?
+
 <img width="978" height="522" alt="image" src="https://github.com/user-attachments/assets/1f3fe26b-4048-4e22-910c-15866f0741b1" />
 
 #### This dashboard allows users to explore crime patterns by selecting a specific city using the dropdown filter. In this example we selected Chicago. Once a city is selected, both the bar chart and time series visualization update dynamically, allowing users to analyze the most common types of crime as well as how crime trends change over time within that city.
