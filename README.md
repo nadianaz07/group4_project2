@@ -5,7 +5,7 @@
 ## Nadia Nazeem: https://github.com/nadianaz07/group4_project2/blob/main/README.md
 ## Mariana Munoz: https://github.com/Mariana-Munoz-70445/PROJECT-2-GROUP-4/blob/main/README.md?plain=1
 
-## DATASET DESCRIPTIONS 📝
+## DATASET DESCRIPTIONS 
 ###   We chose the City Police Departments dataset from the Snowflake Marketplace, provided by Snowflake Public Data Free, and is listed as the Urban Crime Timeseries dataset. We chose this dataset because it is easy to understand and relevant to real-world situations, while still being complex enough to support meaningful analysis. Compared to datasets like economic indicators or housing finance reports, crime data feels more straightforward and relevant to everyday life.
 ###   The dataset is structured as a single table and contains 11,876,843 rows, with each row representing a specific combination of date, location, and type of crime. It tracks crime across several major U.S. cities, including San Francisco, Chicago, Seattle, Los Angeles, Houston, and New York City. Each record includes the date, ZIP code, city, type of crime (such as theft, battery/assault, or deceptive practice), and the number of times that crime occurred. Because the dataset spans different locations and time periods, it allows for comparisons across both geography and time.
 ###   One thing that makes this dataset more interesting is that each city updates its data at a different rate. For example, San Francisco, Chicago, and Seattle update daily, Los Angeles updates weekly, Houston updates monthly, and New York City updates quarterly. This adds a layer of complexity when comparing trends across cities, since the data isn’t reported in the same way everywhere.
@@ -134,7 +134,7 @@ LIMIT 1000;
 #### After this decline, crime levels rise again in most cities as activity returns to normal, with places like New York and Chicago approaching or exceeding pre-pandemic levels. These patterns are important because they highlight predictable shifts over time rather than small daily fluctuations. Understanding these trends allows police departments to better plan ahead, adjust staffing, and allocate resources more effectively during periods of higher or lower crime activity.
 
 
-## 🎯STREAMLIT APP🎯
+## STREAMLIT APP
 
 ### Which types of crime are most common in different neighborhoods? 
 <img width="971" height="605" alt="image" src="https://github.com/user-attachments/assets/cab2d6f0-26e8-43b0-8a59-f459ca721985" />
@@ -147,7 +147,7 @@ LIMIT 1000;
 
 #### This interaction adds analytical value by letting users focus on one city at a time rather than viewing aggregated data across all cities. As a result, users can more easily identify city-specific patterns, compare crime types, and observe trends such as increases or decreases in crime over time. This makes the analysis more targeted and helps highlight insights that may not be visible in a combined view.
 
-##### 🤖AI USAGE🤖
+##### AI USAGE
 ###### AI (ChatGPT) was used to enhance the snowsight dashboards by generating code to filter the streamlit dashboards by City. It was also used to refine and improve the clarity of some of our descriptions. 
 <img width="977" height="155" alt="image" src="https://github.com/user-attachments/assets/0eace0f0-8c70-460b-8621-442671887515" />
 
